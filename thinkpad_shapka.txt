@@ -1,0 +1,43 @@
+[b]ThinkPad thread #64[/b]
+ 
+ИТТ продолжаем разговор о надежных и производительных ноутбуках, чья история уходит корнями к славным победам IBM, а ветвями упирается в китайское уебанство. Травим прохладные о том, как синки летают в космосе, проливаем жидкости, бросаем их на пол и топчемся, демонстрируя непревзойденную неубиваемость.
+Бомбим от ленововских инноваций, ностальгируем по семирядной клаве, неистово теребим трекпоинт, поясняя зачем он вообще нужен, горим по поводу синк-классика.
+Ведем переговоры с барыгами и торгашами на ебеях, угораем по проперженным t420 и x220, которые все еще хороши, великодушно поясняем макоебам почему таки выбрали непревзойденный синк, а не яблобук. С почтением обходим стороной новомодные еретические выебоны от леновы и сральные ведра от кого-не-поподя. И, конечно же, гостеприимно чаёвничаем с владельцами латитудов, элитбуков, пресижнов и лайфбуков.
+ 
+[b]FAQ[/b]
+https://github.com/ThinkPadThink/Thinkpadthinkpad
+Гайд по покупке ThinkPad и не только на Ebay: https://github.com/pepe-i-shim/thinkpad-from-ebay
+ 
+[b]Ссылки[/b]
+Вики (ENG): http://www.thinkwiki.org/wiki/Category:Models
+/r/thinkpad: https://www.reddit.com/r/thinkpad/
+Used ThinkPad Buyers Guide: https://wiki.installgentoo.com/index.php/ThinkPad
+Проверка комплектации и гарантии: https://support.lenovo.com/ru/ru/partslookup
+Гайд по установке клавиатуры X20-серии на x230 синк, применимо к большинству синков 30-серии: http://angrygeek.ru/thinkpad-x230-keyboard-mod/
+ 
+[b]ШИМ[/b]
+http://pastebin.com/ZRxfz3Ax
+Внимание! На многих олдовых и каноничных моделях обнаружено наличие ШИМ.
+ 
+[i]Где обнаружен ШИМ:[/i]
+T/W-Series: T60, T410, T420, T430, l510 TN, T520, W530
+X-Series: x60t, x200, x201, x220 TN, x220 IPS, x230 Tablet, x240
+Где не обнаружен: X41t, T460, T440S, T440p FullHD, X250 FullHD
+Ведутся поиски шима.
+ 
+[b]Прошлые треды[/b]
+63: http://arhivach.ng/thread/530316/ >>4195742
+62: https://arhivach.ng/thread/521786/
+61: https://arhivach.ng/thread/513151/
+60: https://arhivach.ng/thread/508593/
+59: https://arhivach.ng/thread/505225/
+58: https://arhivach.ng/thread/500116/
+57: https://arhivach.ng/thread/492725/
+56: https://arhivach.ng/thread/485435/
+55: https://arhivach.ng/thread/475121/
+54: https://arhivach.ng/thread/462976/
+53: https://arhivach.ng/thread/451663/
+52: https://arhivach.ng/thread/439764/
+51: https://arhivach.ng/thread/432825/
+50: https://arhivach.ng/thread/427649/
+1-49: https://pastebin.com/xbrHChYg/
